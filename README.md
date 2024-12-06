@@ -4,6 +4,6 @@
 
 <br />
 
-[![Bronek's github stats](https://github-readme-stats.vercel.app/api?username=broneks&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/broneks)
+[![Bronek's github stats](https://github-readme-stats.vercel.app/api?username=broneks&count_private=true&show_icons=true)](https://github.com/broneks)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broneks&theme=gruvbox&layout=compact)](https://github.com/broneks)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broneks&layout=compact)](https://github.com/broneks)
